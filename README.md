@@ -39,5 +39,6 @@ The dashboard includes comparisons between:
 - Break out regional trends if additional data becomes available
 - Try a remake of this project using Power BI or Tableau for comparison
 
-  #### My Thoughts
+#### My Thoughts
+
 Overall, I consider this project a success. I was able to structure my analysis around stakeholder-driven questions and translate those into clear, measurable insights using SQL and Tableau. This helped me practice asking the right kinds of business-focused questions and build a dashboard that could easily be presented in a real-world setting. That said, one of the biggest challenges was the lack of variance in the dataset. Many fields had similar values across sessions, which made it difficult to draw strong, distinct patterns. For example, satisfaction ratings and session lengths didn’t vary much, limiting deeper analysis or correlations. This highlighted the importance of rich, diverse data when trying to tell a compelling story through analytics. Despite that, one key insight stood out: regardless of a student's discipline or academic level, AI assistance appeared to be beneficial across the board. Whether undergraduate or graduate, science or arts, students showed consistent engagement and satisfaction—suggesting AI tools have broad, inclusive potential in education.
